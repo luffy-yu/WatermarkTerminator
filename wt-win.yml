@@ -1,0 +1,51 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - brotlipy=0.7.0
+  - conda=4.10.1
+  - console_shortcut=0.1.1
+  - curl=7.71.1
+  - freetype=2.10.4
+  - glib=2.68.1
+  - openjpeg=2.3.1
+  - powershell_shortcut=0.0.1
+  - pysocks=1.7.1
+  - python=3.6.13
+  - qt=5.12.9
+  - tzdata=2020d
+  - wheel=0.36.2
+  - pip:
+      - asn1crypto==1.4.0
+      - conda-env-export==0.4.3
+      - conda-package-handling==1.7.3
+      - crypto==1.4.1
+      - imbalanced-learn==0.3.3
+      - joblib==0.14.1
+      - keyring==19.1.0
+      - opencv-python==4.5.3.56
+      - openpyxl==3.0.7
+      - pandas==0.22.0
+      - pdfminer==20191125
+      - Pillow==8.3.1
+      - playsound==1.2.2
+      - pycryptodomex==3.10.1
+      - PyInstaller==3.5
+      - pyinstaller-hooks-contrib==2021.1
+      - PyMuPDF==1.18.12
+      - pyOpenSSL==20.0.1
+      - PyQt-builder==1.9.1
+      - PySocks==1.7.1
+      - python-docx==0.8.11
+      - python-poppler-qt5==0.75.0
+      - qpageview==0.6.0
+      - redis==3.5.3
+      - requests-html==0.10.0
+      - selenium==3.141.0
+      - typing-extensions==3.7.4.3
+      - win-inet-pton==1.1.0
+      - wincertstore==0.2
+      - WMI==1.5.1
+      - xlrd==1.2.0
+prefix: C:\Users\luffy\miniconda3

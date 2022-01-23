@@ -1,0 +1,23 @@
+name: wt
+channels:
+  - defaults
+dependencies:
+  - python=3.6.13
+  - qt=5.9.4
+  - pip:
+      - certifi==2020.12.5
+      - conda-env-export==0.4.3
+      - pdfminer==20191125
+      - Pillow==8.2.0
+      - pyinstaller==4.3
+      - PyMuPDF==1.18.12
+      - PyQt-builder==1.9.1
+      - PyQt5==5.9.2
+      - PyQt5-sip==12.8.1
+      - PySimpleGUI==4.43.0
+      - python-docx==0.8.11
+      - python-poppler-qt5==0.75.0
+      - qpageview==0.6.0
+      - toml==0.10.2
+      - wheel==0.36.2
+prefix: /Users/luffy/anaconda3/envs/wt
